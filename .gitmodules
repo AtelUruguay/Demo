@@ -7,3 +7,7 @@
 	path = OCA/project
 	url = git@github.com:OCA/project.git
 	branch = 14.0
+[submodule "aguerobaquero/private"]
+	path = aguerobaquero/private
+	url = git@github.com:aguerobaquero/private.git
+	branch = main
